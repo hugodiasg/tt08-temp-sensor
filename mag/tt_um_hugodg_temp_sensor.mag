@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1723760394
+timestamp 1723763153
 << metal1 >>
 rect 810 38440 820 38840
 rect 1180 38440 1190 38840
@@ -303,7 +303,7 @@ rect 30380 720 30542 1000
 rect 30050 670 30542 720
 rect 30362 0 30542 670
 use device_without_rf  device_without_rf_0 /foss/designs/tt08-temp-sensor/mag/device-complete/mag_without_rf
-timestamp 1708740768
+timestamp 1723762448
 transform 0 1 19940 -1 0 38200
 box -62 -2580 29620 7540
 << labels >>
