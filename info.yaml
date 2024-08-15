@@ -58,8 +58,8 @@ pinout:
   ua[1]: "out_buff"
   ua[2]: "ib"
   ua[3]: "vts"
-  # ua[4]: ""
-  # ua[5]: ""
+  ua[4]: ""
+  ua[5]: ""
 
 # Do not change!
 yaml_version: 6
