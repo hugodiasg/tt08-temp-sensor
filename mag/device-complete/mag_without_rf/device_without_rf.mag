@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1723762448
+timestamp 1723764345
 << metal1 >>
 rect 6940 7200 7260 7540
 rect 6900 7160 7300 7200
@@ -283,7 +283,7 @@ timestamp 1723762448
 transform 1 0 660 0 1 2500
 box -660 -2500 3580 3000
 use sigma-delta  sigma-delta_0 ../../sigma-delta_modulator/mag
-timestamp 1723762448
+timestamp 1723764345
 transform 1 0 17480 0 1 520
 box -3180 -520 12140 5420
 << labels >>
